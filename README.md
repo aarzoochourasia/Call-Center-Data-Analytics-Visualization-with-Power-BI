@@ -2,7 +2,7 @@
 ## Project Overview
 This Power BI project showcases my ability to leverage data visualization, automation, and data cleansing techniques to solve real-world business challenges. I created interactive dashboards focusing on Call Center Trends, Customer Retention, and Diversity & Inclusion. These dashboards equip PwC Switzerland and their clients with actionable insights to improve operational efficiency, strengthen customer loyalty, and foster a more inclusive workplace.
 
-## Task 1
+## Task 1 Call Centre Trends
 Create a dashboard in Power BI for visualizing relevant KPIs and metrics in the dataset provided.</br>
 Utilize the resources provided, including podcasts and articles, to enhance your understanding of data visualization and upskilling.</br>
 Respond to the client's request by providing a well-designed Power BI dashboard reflecting the requested KPIs.</br>
